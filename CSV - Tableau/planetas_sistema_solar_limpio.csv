@@ -1,0 +1,9 @@
+nombre_planeta	masa_kg	radio_km	densidad_kg_m3	gravedad_m_s2	distancia_sol_au	periodo_orbital_dias	inclinacion_orbital_grados	numero_lunas	nombres_lunas	tipo_planeta	temperatura_media_k,,,,,,,,,,,,,
+Mercurio	3.3e+23	2439.7	5427.0	3.7	0.39	88.0	7.0	0.0	-0	Rocoso	440.0,,,,,,,,,,,,,
+Venus	4.87e+24	6051.8	5243.0	8.87	0.72	225.0	3.39	0.0	-0	Rocoso	737.0,,,,,,,,,,,,,
+Tierra	5.97e+24	6371.0	5514.0	9807	1.0	365.25	0.0	1.0	Luna	Rocoso	288.0,,,,,,,,,,,,,
+Marte	6.42e+23	3389.5	3933.0	3721	1.52	687.0	1.85	2.0	Fobos, Deimos	Rocoso	210.0,,,,,,,,,,,,
+Jupiter	1.9e+27	69911.0	1326.0	24.79	5.2	4331.0	1.3	79.0	Io, Europa, Ganimedes, Calisto, Amaltea, Himalia, Elara, Pasiphae, Sinope, Lysithea, Carme, Ananke, Leda, ...	Gigante gaseoso	165.0
+Saturno	5.68e+26	58232.0	687.0	10.44	9.58	10747.0	2.49	82.0	Titan, Rea, Japeto, Dione, Tetis, Mimas, Encelado, Hiperion, Febe, Pan, Atlas, Prometeo, Pandora, ...	Gigante gaseoso	134.0
+Urano	8.68e+25	25362.0	1270.0	8.69	19.2	30589.0	0.77	27.0	Titania, Oberon, Umbriel, Ariel, Miranda, Puck, Portia, Rosalind, Belinda, Cressida, Desdemona, Juliet, ...	Gigante helado	76.0,
+Neptuno	1.02e+26	24622.0	1638.0	11.15	30.05	59800.0	1.77	14.0	Triton, Nereida, Proteo, Larisa, Galatea, Despina, Thalassa, Naiad, Halimede, Psamate, Sao, Laomedeia, Neso, ...	Gigante helado	72.0
