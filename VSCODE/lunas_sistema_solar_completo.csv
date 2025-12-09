@@ -1,0 +1,11 @@
+Nombre_Luna,Planeta_Anfitrion,Tipo_Planeta,Masa,Radio,Densidad,Gravedad,Periodo_orbital,Distancia_planeta,Excentricidad,Descubierta,Descubridor
+Luna,Tierra,Rocoso,7.34767309e+22,1737.1,3340,1.62,27.32,384400.0,0.0549,Prehistorico,Desconocido
+Fobos,Marte,Rocoso,1.0659e+16,11.2667,1876,0.0057,0.31891,9376.0,0.0151,1877,Asaph Hall
+Deimos,Marte,Rocoso,1476200000000000.0,6.2,1750,0.003,1.263,23463.2,0.00033,1877,Asaph Hall
+Io,Jupiter,Gigante gaseoso,8.9319e+22,1821.6,3530,1.796,1.769,421700.0,0.0041,1610,Galileo Galilei
+Europa,Jupiter,Gigante gaseoso,4.7998e+22,1560.8,3010,1.314,3.551,671034.0,0.009,1610,Galileo Galilei
+Ganimedes,Jupiter,Gigante gaseoso,1.4819e+23,2634.1,1940,1.428,7.155,1070400.0,0.0013,1610,Galileo Galilei
+Calisto,Jupiter,Gigante gaseoso,1.0759e+23,2410.3,1830,1.235,16.689,1882700.0,0.0074,1610,Galileo Galilei
+Titan,Saturno,Gigante gaseoso,1.3452e+23,2575.0,1881,1.352,15.945,1221870.0,0.0288,1655,Christiaan Huygens
+Titania,Urano,Gigante helado,3.527e+21,788.9,1700,0.379,8.706,436300.0,0.0011,1787,William Herschel
+Triton,Neptuno,Gigante helado,2.14e+22,1353.4,2050,0.779,-5.877,354800.0,1.6e-05,1846,William Lassell

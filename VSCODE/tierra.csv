@@ -1,0 +1,2 @@
+nombre_planeta,nombre_estrella,similitud_tierra,masa_planeta_m_tierra,radio_planeta_r_tierra,temperatura_media_k,periodo_orbital_dias,semi_eje_mayor_ua,excentricidad_orbital,temperatura_estrella_k,masa_estrella_m_solar,radio_estrella_r_solar,tipo_espectral,origen_mision
+Tierra,Sol,1.0,1.0,1.0,288,365.25,1.0,0.0167,5778,1.0,1.0,G2V,Tierra
