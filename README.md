@@ -95,4 +95,8 @@ Este repositorio contiene los recursos para el análisis y visualización de dat
 📄 limpieza_espacio.ipynb  
 📄 limpieza_exoplanetas.ipynb  
 
+## ✨ Autora
+
+**Nerea Gomez Roman**  
+Estudiante de Ironhack 2025
 
