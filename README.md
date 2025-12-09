@@ -79,3 +79,20 @@ A partir de los datos analizados, **no se detectan planetas claramente habitable
 ---
 
 ## 📁 **Estructura del repositorio**
+Este repositorio contiene los recursos para el análisis y visualización de datos de exoplanetas y estrellas. La organización es la siguiente:
+
+📁 CSV - Tableau  
+📁 CSV VSCODE FINAL  
+📁 SQL  
+
+📄 ESPACIO.twb  
+
+📄 exoplanet.eu.csv  
+📄 k2pandc_2025.csv  
+📄 PS_2025.csv  
+📄 STELLARHOSTS_2025.csv  
+
+📄 limpieza_espacio.ipynb  
+📄 limpieza_exoplanetas.ipynb  
+
+
